@@ -1,1 +1,1 @@
-# CTF_forensisDigital
+# CTF_forensicDigital
